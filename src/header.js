@@ -18,7 +18,7 @@ export default function Header(){
                 <div className="col-lg-5">
                 <div className='card p-5 border-0'>
                     <div card-body >
-                  <img src="https://cdn.pixabay.com/photo/2017/08/17/00/25/image-2649619_960_720.jpg"/>
+                  <img src="https://cdn.pixabay.com/photo/2017/08/17/00/25/image-2649619_960_720.jpg" className='img-fluid'/>
                     </div>
                     
                 </div>
